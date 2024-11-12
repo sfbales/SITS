@@ -26,9 +26,9 @@ cd SITSv1.0
 
 **Dependencies**: Install required packages using:
 
-    ```bash
+```bash
     pip install -r requirements.txt
-    ```
+```
 **Run**: 
 
  ```bash
