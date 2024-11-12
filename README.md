@@ -15,14 +15,28 @@ Features
 
 ---
 
-## Requirements
+## Installing
 
-1. **Python**: Ensure Python 3.7 or higher is installed.
-2. **Dependencies**: Install required packages using:
+**Python**: Ensure Python 3.7 or higher is installed.
+
+ ```bash
+    git clone https://github.com/username/SITSv1.0.git
+cd SITSv1.0
+ ```
+
+**Dependencies**: Install required packages using:
 
     ```bash
     pip install -r requirements.txt
     ```
+**Run**: 
+
+ ```bash
+    chmod +x run.sh
+ ```
+ ```bash
+    ./run.sh
+ ```
 
     This installs all necessary libraries, including FastAPI, psutil, requests, and others.
 3. **Tkinter** (for Linux):
