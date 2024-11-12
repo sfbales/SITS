@@ -1,0 +1,6 @@
+fastapi
+requests
+tkcalendar
+psutil
+pydantic
+pyngrok
