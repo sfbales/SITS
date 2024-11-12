@@ -1,7 +1,17 @@
 # SITS - Snake In The Shell
 
 ## Overview
-SITS (Snake In The Shell) is a suite designed for managing Python-based software, providing tools for package management, command execution, script scheduling, API exposure, and more. This guide helps you set up and run the program, including instructions on configuring ngrok for API access.
+SITS (Snake In The Shell) is a Python-based suite designed to empower developers and system administrators with powerful tools for automating, managing, and executing scripts. With a GUI-based approach, SITS integrates functionalities like script scheduling, API exposure, command execution, and dependency management, making it an all-in-one toolkit for Python-based system management and automation tasks.
+
+Whether you’re a developer looking to automate repetitive tasks, an administrator managing scripts across different systems, or an enthusiast exploring script scheduling, SITS provides an accessible and flexible platform.
+Features
+
+    Dependency Management: Check for required packages, install dependencies, and manage environment configurations.
+    Command Management: Organize, save, and execute shell commands from a single interface.
+    Script Execution: Load and run Python scripts with dependency checks and management.
+    Task Scheduling: Schedule scripts or commands to run at specified times with automatic logging.
+    API Exposure: Expose your functionalities as a FastAPI-based REST API, accessible locally or over the internet via ngrok.
+
 
 ---
 
